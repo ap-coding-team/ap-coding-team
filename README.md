@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in working on my own projects in my free time.
+- 🌱 I’m currently learning more about advanced DevOps processes
+- 💞️ I’m not looking to collaborate, except with select people, sorry! 
